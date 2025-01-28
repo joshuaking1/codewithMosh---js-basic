@@ -1,5 +1,5 @@
-function isLandsacpe(width, height) {
+function isLandscape(width, height) {
     return (width > height) ? width : height
 }
 
-console.log(isLandsacpe(500,80))
+console.log(isLandscape(500,80))
