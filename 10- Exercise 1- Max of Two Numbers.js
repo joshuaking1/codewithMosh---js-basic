@@ -1,4 +1,4 @@
-  function max(a,b){
+function max(a,b){
     return a + b
   }
 
