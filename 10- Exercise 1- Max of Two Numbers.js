@@ -1,5 +1,5 @@
 function max(a,b){
-    return a + b
-  }
+    return(a > b) ? a : b;
+ }
 
-  console.log(max(9,6))
+ console.log(max(9,6))
